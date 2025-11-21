@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SAIKRISHNA S.N</h1>
-<h3 align="center">A passionate web developer from Vellore,Tamil Nadu ,India</h3>
+<h3 align="center">A passionate web developer from Vellore, Tamil Nadu, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snsaikrishna&label=Profile%20views&color=0e75b6&style=flat" alt="snsaikrishna" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **REACT,Javascript,MySql**
 
-- 📫 How to reach me **saikrishnasnoff@gmail.com**
+- 📫 How to reach me **<p><a> saikrishnasn@outlook.com </a></p>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
