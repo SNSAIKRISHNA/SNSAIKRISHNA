@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <span style="color:#4CAF50;">SAIKRISHNA S.N</span> 👋</h1>
+<h1 align="center">Hi, I'm <span style="color:#4CAF50;">SAIKRISHNA S.N</span> </h1>
 <h3 align="center">A passionate Web Developer from Tamil Nadu, India</h3>
 
 <p align="center">
